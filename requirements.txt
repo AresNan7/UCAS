@@ -1,0 +1,26 @@
+# PyTorch 深度学习项目依赖
+
+# 核心库
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# 数据处理
+numpy>=1.21.0
+pandas>=1.3.0
+
+# 可视化
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# 进度条
+tqdm>=4.62.0
+
+# Jupyter 支持（用于 Colab）
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# 其他工具
+scikit-learn>=1.0.0
+Pillow>=8.3.0
+
